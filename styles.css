@@ -40,6 +40,10 @@
     cursor: pointer;
     transition: 0.5s;
   }
+
+    #acc h2 a:hover {
+      color: red;
+    }
   
   #acc p {
     background-color: yellow;
@@ -54,11 +58,6 @@
     margin-bottom: 15px;
     transition: .3s opacity, .6s max-height;
     z-index: 2;
-  }
-  
-  section.acc {
-    padding-top: 3em;
-    padding-bottom: 3em;
   }
   
   #acc ul {
