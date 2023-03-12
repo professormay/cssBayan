@@ -42,6 +42,7 @@
   }
   
   #acc p {
+    background-color: yellow;
     text-align: center;
     position: relative;
     overflow: hidden;
