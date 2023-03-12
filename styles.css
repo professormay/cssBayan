@@ -54,8 +54,6 @@
     display: inline-block;
     opacity: 1;
     transform: translate(0, 0);
-    margin-top: 15px;
-    margin-bottom: 15px;
     transition: .3s opacity, .6s max-height;
     z-index: 2;
   }
