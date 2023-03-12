@@ -32,7 +32,7 @@
     line-height: 38px;
     font-size: 24px;
     text-align: left;
-    padding: 18px 18px 0;
+    padding: 18px;
     text-transform: none;
     font-weight: 400;
     display: block;
@@ -76,8 +76,6 @@
     overflow: hidden;
     padding: 0;
     margin: 0;
-    background: #fff;
-    box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
   }
   #acc ul li + li {
     margin-top: 15px;
